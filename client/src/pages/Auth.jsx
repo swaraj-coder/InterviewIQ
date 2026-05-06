@@ -83,4 +83,4 @@ function Auth({isModel = false}) {
   )
 }
 
-export default Auth
+export default Auth  
